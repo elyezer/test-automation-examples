@@ -1,0 +1,6 @@
+Fabric
+nose
+pytest
+requests
+selenium
+splinter
