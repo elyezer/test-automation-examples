@@ -1,4 +1,5 @@
 Fabric
+Flask
 nose
 pytest
 requests
