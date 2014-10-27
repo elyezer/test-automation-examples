@@ -4,7 +4,7 @@ from splinter import Browser
 SERVER_URL = 'http://localhost:5000/'
 
 
-class APITestCase(unittest.TestCase):
+class UITestCase(unittest.TestCase):
     def setUp(self):
         self.browser = Browser()
 
