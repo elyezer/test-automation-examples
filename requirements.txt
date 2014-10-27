@@ -1,5 +1,6 @@
 Fabric
 Flask
+ddt
 nose
 pytest
 requests
